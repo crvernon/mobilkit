@@ -60,7 +60,7 @@ management operations to this date [@barra2020solid].
 
 At present, only few tools allow for an integrated and inclusive analysis of mobility data. 
 While several tookits allow users to perform some basic analytics on large mobility datasets
-(e.g., @de2016bandicoot; @pappalardo2019scikitmobility), these cover only some of the
+(e.g., [@de2016bandicoot or @pappalardo2019scikitmobility]), these cover only some of the
 steps in the mobility data pipeline.
 These toolkits also do not provide adequate data pre-processing and visualization
 functionality which causes users to seek additional external options.
@@ -88,7 +88,7 @@ and social services by using point-of-interest (POI) data, and 5) measure and ch
 # Use Case
 The usefulness of `Mobilkit` was demonstrated in a recent study carried out in collaboration with the World Bank Global Facility for Disaster Reduction and Recovery [@yabe2021location]. The study focused on assessing the impact of a 7.1 magnitude earthquake that occurred on September 19, 2017 where the epicenter was located around 55 km south of Puebla, Mexico (about 100 km south-east of Mexico City, Mexico). `Mobilkit` was also leveraged to conduct an analysis of the spatial structure of ten cities around the globe using smartphone location data, provided by Quadrant, to generate insights about mobility management options[^1]. Similar analysis could also be explored using `Mobilkit` for planning and recovering activities related to climate, man-made, and other natural disasters.
 
-[^1] See the notebooks covering [Urban Spatial Structure analyses](https://mobilkit.readthedocs.io/en/latest/examples/USS01_Mumbai.html) and an [inter-city comparison of Urban Spatial Structure indicators](https://mobilkit.readthedocs.io/en/latest/examples/USS02_CityComparison.html).
+[^1]: See the notebooks covering [Urban Spatial Structure analyses](https://mobilkit.readthedocs.io/en/latest/examples/USS01_Mumbai.html) and an [inter-city comparison of Urban Spatial Structure indicators](https://mobilkit.readthedocs.io/en/latest/examples/USS02_CityComparison.html).
 
 # Acknowledgements
 
